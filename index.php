@@ -25,34 +25,34 @@ include('_header.php');
       ?>
    </div>
 
-   <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
+   <h1>Welcome to the Square Enix Independent Wiki Alliance</h1>
 
    <p>
-      We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission. 
+      We are a network of independent wikis working together since 2011 to bring fans quality coverage of all things Square Enix. Together with our affiliates, we collaborate and support one another in our mission. 
    </p>
 
    <p>
       We are driven by our focus on our fans:
       <ul>
          <li><b>Fan communities should be run by the fans</b>, and not corporate entities that don't put the community first.</li>
-         <li><b>Fan communities should be run for the fans</b>, by people who will always think about how they can continue to enhance the enjoyment of everyone in the community.</li>
+         <li><b>Fan communities should be run for the fans</b>, who are our target audience, not our advertising pool.</li>
          <li><b>Fan communities should be run together with the fans</b>, embracing a spirit of co-operation and camaraderie.</li>
       </ul>
    </p>
 
    <div class="flex-container">
       <div class="flex-section stats text-center white">
-         <h2>30+ members</h2>
-         covering Nintendo
+         <h2>6 members</h2>
+         covering Square Enix
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>240,000+ articles</h2>
-         across three languages
+         <h2>14,000+ articles</h2>
+         covering various titles and four franchises
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>10+ affiliates</h2>
+         <h2>10 affiliates</h2>
          supporting our mission
          <br/><br/>
       </div>
@@ -70,13 +70,13 @@ include('_header.php');
 
    <div class="flex-container">
       <div class="flex-section discord text-center white">
-         <a href="https://discord.gg/59Mq6qB">Join our Discord</a>
+         <a href="https://discord.gg/8hbVZWpBWv">Join our Discord</a>
       </div>
       <div class="flex-section twitter text-center white">
          <a href="https://twitter.com/niwanetwork">Follow on Twitter</a>
       </div>
       <div class="flex-section facebook text-center white">
-         <a href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
+         <a href="https://www.facebook.com/seiwanetwork">Like on Facebook</a>
       </div>
    </div>
 
